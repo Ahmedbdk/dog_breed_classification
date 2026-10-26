@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+artifacts/
+submission.csv
+train/
+test/
+labels.csv
+sample_submission.csv
+*.log
